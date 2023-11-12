@@ -65,6 +65,7 @@ const stNumb = 12;
 const coup = fCN(stNumb);
 console.log(`Номер купе для місця ${stNumb} - ${coup}`);
 
+
   
 
 
